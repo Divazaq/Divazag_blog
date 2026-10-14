@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Divazaq - Money Blog Naija</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:Arial;margin:0">
+<div style="background:black;color:gold;padding:20px;text-align:center">
+<h1>DIVAZAQ.COM</h1>
+<p>Your Naija Money Plug</p>
+</div>
+<div style="background:#eee;padding:15px;text-align:center;margin:10px">AD SPACE - YOU GO EARN HERE</div>
+<div style="padding:15px;border:1px solid #ddd;margin:10px">
+<h2>5 Loan Apps Wey Dey Pay Sharp</h2>
+<p>Branch, FairMoney... Click to read more.</p>
+</div>
+<div style="padding:15px;border:1px solid #ddd;margin:10px">
+<h2>Cheap Data for Tecno Pop 7</h2>
+<p>How to get 1GB for N300...</p>
+</div>
+</body>
+</html>
